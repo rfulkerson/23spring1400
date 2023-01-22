@@ -6,7 +6,7 @@ The in-person course meetings use a [Peer Instruction](https://en.wikipedia.org/
 
 Class Results | Next Step
 :-- | :--
-&lt; 30% | Just-in-time (JIT) teaching is used to clarify the material. A second vote is sometimes taken to judge a hopeful positive change in understanding of the material.
+&lt; 30% | Just-in-time (JIT) teaching is used to clarify the material. A second vote is sometimes taken to evaluate new understanding of the material after that JIT teaching.
 30% to 79% | The class breaks up into small groups of 2-4 students to discuss the question for 4-6 minutes. The question is presented again and the class votes on the question a second time to evaluate student understanding after those discussions.
 &ge; 80% | Some clarifying discussion is had by the instructor about the correct answer as well as why the other answers are incorrect and then the next question or activity is presented.
 
