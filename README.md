@@ -23,4 +23,3 @@ Guidance for students who may not be familiar with a GitHub repository:
 3. Alternatively, you can use the green `CODE` button at the top of the [main repo page](https://github.com/rfulkerson/23spring1400) to download a ZIP file of the entire directory structure.
 
 For students who may be familiar with GitHub repositories: have at it! :)
-
